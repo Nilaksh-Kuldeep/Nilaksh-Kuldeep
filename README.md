@@ -14,7 +14,8 @@ A Java learner and aspiring developer building practical solutions and improving
 - Improving understanding of software development workflows
 
 ## Project Highlight
-- [@Pranav-Sharma-Official/java-lab](https://github.com/Pranav-Sharma-Official/java-lab)
+- Repository: [@Pranav-Sharma-Official/java-lab](https://github.com/Pranav-Sharma-Official/java-lab)
+- Profile: [@Pranav-Sharma-Official](https://github.com/Pranav-Sharma-Official)
 
 ## Connect
 - GitHub: [Nilaksh-Kuldeep](https://github.com/Nilaksh-Kuldeep)
