@@ -6,7 +6,7 @@ A Java learner and aspiring developer building practical solutions and improving
 - 💻 Learning Java, logic building, and backend fundamentals
 - 🌱 Working on projects, labs, and practice exercises
 - 🧠 Interested in clean code, OOP, and real-world development
-- 🔗 Main GitHub profile: [Pranav-Sharma-Official](https://github.com/Pranav-Sharma-Official)
+- 🔗 Main GitHub profile: [Nilaksh-Kuldeep](https://github.com/Nilaksh-Kuldeep)
 
 ## Current Focus
 - Java programming and core concepts
@@ -18,7 +18,7 @@ A Java learner and aspiring developer building practical solutions and improving
 
 ## Connect
 - GitHub: [Nilaksh-Kuldeep](https://github.com/Nilaksh-Kuldeep)
-- Profile link: [github.com/Pranav-Sharma-Official](https://github.com/Pranav-Sharma-Official)
+- Profile link: [github.com/Nilaksh-Kuldeep](https://github.com/Nilaksh-Kuldeep)
 
 ```text
 Learning by building 🚀
