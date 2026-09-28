@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nilaksh Kuldeep 👋
 
-<!--
-**Nilaksh-Kuldeep/Nilaksh-Kuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Java learner and aspiring developer building practical solutions and improving my problem-solving skills.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Learning Java, logic building, and backend fundamentals
+- 🌱 Working on projects, labs, and practice exercises
+- 🧠 Interested in clean code, OOP, and real-world development
+- 🔗 Main GitHub profile: [Pranav-Sharma-Official](https://github.com/Pranav-Sharma-Official)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Java programming and core concepts
+- Hands-on coding practice
+- Improving understanding of software development workflows
+
+## Project Highlight
+- [@Pranav-Sharma-Official/java-lab](https://github.com/Pranav-Sharma-Official/java-lab)
+
+## Connect
+- GitHub: [Nilaksh-Kuldeep](https://github.com/Nilaksh-Kuldeep)
+- Profile link: [github.com/Pranav-Sharma-Official](https://github.com/Pranav-Sharma-Official)
+
+```text
+Learning by building 🚀
+Java • Logic • Growth
+```
